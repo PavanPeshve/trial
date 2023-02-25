@@ -1,0 +1,19 @@
+/*targets all h1 id's*/
+h1[id]{
+    color: aqua;
+    background-color: black;
+}
+
+/*targets h1 with specific id value*/
+
+    h1[id=ga]{
+        color: red;
+        background-color: blueviolet;
+    }
+
+
+    /*targets input name*/
+    input[type]{
+        background-color: bisque;
+        height: 100px;
+    }

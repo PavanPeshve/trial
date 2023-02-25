@@ -1,0 +1,26 @@
+#demo{
+    background-color: aqua;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.test{
+    color: blueviolet;
+}
+
+article{
+    background-color: aquamarine;
+    font-size: large;
+    border-color: black; 
+
+}
+
+article,p,h2{
+   background-color: darkgray;
+}
+
+*{
+
+    background-color: gold;
+    font-size: larger;
+}
